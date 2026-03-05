@@ -24,3 +24,8 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Project docs
+CLAUDE.md
+PLAN.md
+Custom_Chat_Bot_Tech_Brief_v1.1.md
